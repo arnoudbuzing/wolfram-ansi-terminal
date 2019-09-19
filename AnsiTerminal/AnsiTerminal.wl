@@ -1,4 +1,4 @@
-BeginPackage["ansi`"];
+BeginPackage["AnsiTerminal`"];
 
 AnsiDigitPattern::usage = "";
 AnsiOperatorPattern::usage = "";
